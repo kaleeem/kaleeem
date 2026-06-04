@@ -59,14 +59,12 @@
 <p align="center">
   <img src="./assets/icons/si-js.svg" width="48" height="48" title="JavaScript" alt="JavaScript" />
   <img src="./assets/icons/si-ts.svg" width="48" height="48" title="TypeScript" alt="TypeScript" />
-  <img src="./assets/icons/si-php.svg" width="48" height="48" title="PHP" alt="PHP" />
   <img src="./assets/icons/si-python.svg" width="48" height="48" title="Python" alt="Python" />
   <img src="./assets/icons/si-solidity.svg" width="48" height="48" title="Solidity" alt="Solidity" />
   <img src="./assets/icons/si-react.svg" width="48" height="48" title="React" alt="React" />
   <img src="./assets/icons/si-nextjs.svg" width="48" height="48" title="Next.js" alt="Next.js" />
   <img src="./assets/icons/si-nodejs.svg" width="48" height="48" title="Node.js" alt="Node.js" />
   <img src="./assets/icons/si-express.svg" width="48" height="48" title="Express.js" alt="Express.js" />
-  <img src="./assets/icons/si-laravel.svg" width="48" height="48" title="Laravel" alt="Laravel" />
 </p>
 
 <p align="center">
