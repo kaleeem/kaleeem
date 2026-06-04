@@ -122,31 +122,21 @@
 
 <!-- DevOps / hosting extras -->
 <p align="center">
-  <img src="./assets/icons/githubactions.svg" width="48" height="48" title="CI/CD (via GitHub Actions)" alt="CI/CD" />
-  &nbsp;
-  <img src="./assets/icons/pm2.svg" width="48" height="48" title="PM2" alt="PM2" />
+  <img src="./assets/icons/aws.svg" width="48" height="48" title="AWS" alt="AWS" />
   &nbsp;
   <img src="./assets/icons/ec2.svg" width="48" height="48" title="AWS EC2" alt="AWS EC2" />
   &nbsp;
-  <img src="./assets/icons/route53.svg" width="48" height="48" title="AWS Route 53" alt="AWS Route 53" />
+  <img src="./assets/icons/vercel.svg" width="48" height="48" title="Vercel" alt="Vercel" />
   &nbsp;
-  <img src="./assets/icons/cpanel.svg" width="48" height="48" title="WHM (WebHost Manager)" alt="WHM" />
+  <img src="./assets/icons/githubactions.svg" width="48" height="48" title="GitHub Actions" alt="GitHub Actions" />
   &nbsp;
-  <img src="./assets/icons/hostinger.svg" width="48" height="48" title="hPanel (Hostinger)" alt="hPanel" />
+  <img src="./assets/icons/postgresql.svg" width="48" height="48" title="PostgreSQL" alt="PostgreSQL" />
+  &nbsp;
+  <img src="./assets/icons/mongodb.svg" width="48" height="48" title="MongoDB Atlas" alt="MongoDB Atlas" />
 </p>
 
-<!-- Blockchain ecosystem -->
-<p align="center">
-  <img src="./assets/icons/ethereum.svg" width="48" height="48" title="Smart Contracts" alt="Smart Contracts" />
-  &nbsp;
-  <img src="./assets/icons/opensea.svg" width="48" height="48" title="NFTs" alt="NFTs" />
-  &nbsp;
-  <img src="./assets/icons/ethereum.svg" width="48" height="48" title="ERC-721 / ERC-721A / ERC-4907" alt="ERC Standards" />
-  &nbsp;
-  <img src="./assets/icons/web3dotjs.svg" width="48" height="48" title="Web3.js" alt="Web3.js" />
-  &nbsp;
-  <img src="./assets/icons/ethers.svg" width="72" height="48" title="Ethers.js" alt="Ethers.js" />
-</p>
+
+
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" height="6" alt="" />
