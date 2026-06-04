@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/banner.svg" alt="Kaleem M" />
+  <img src="./assets/banner.svg" alt="Abbas Raza" />
 </p>
 
 <!-- Role pills — trailing spacer equalizes row so Systems Builder sits at row center -->
@@ -25,14 +25,10 @@
 
 <!-- Socials + profile views -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/abbas-raza-naqvi">
+  <a href="https://www.linkedin.com/in/kaleem-m5">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://abbasraza.dev">
-    <img src="https://img.shields.io/badge/Portfolio-00ff7f?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Portfolio" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=MAbbasRaza&color=00ff7f&style=for-the-badge&label=Profile+Views" alt="profile views" />
-</p>
+
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" height="6" alt="" />
