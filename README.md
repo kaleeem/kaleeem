@@ -39,11 +39,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=00FF7F&center=true&vCenter=true&width=400&height=50&lines=What+I+Do&pause=1000&duration=11000" alt="What I Do" />
 </p>
 
-- Ship across the stack -> **React / Next.js** frontends, **Node / Laravel / Python** backends, **Solidity** contracts.
-- Deliver -> SaaS platforms, ERPs, APIs, and blockchain systems end-to-end, from schema design to production deploys.
-- 🟢 **Open to work** -> MVP builds, team augmentation, and specialized marketplace / SaaS / Web3 engineering.
-- Portfolio -> **[abbasraza.dev](https://abbasraza.dev)**
-- LinkedIn -> **[abbas-raza-naqvi](https://www.linkedin.com/in/abbas-raza-naqvi)**
+- Build full-stack applications using MERN, Next.js and modern backend technologies.
+- Develop AI-powered tools that solve practical developer and productivity problems.
+- Strong foundation in Data Structures, Algorithms, OOP, DBMS and Operating Systems.
+- Software Engineering Intern @ Fluxon, contributing to production-grade internal platforms.
+- Open to Software Engineering, Full-Stack Development and Product Engineering opportunities.
+- LeetCode -> **[chidorixzoro](https://leetcode.com/u/chidorixzoro/)**
+- LinkedIn -> **[Kaleem](https://www.linkedin.com/in/kaleem-m5)**
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" height="6" alt="" />
