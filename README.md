@@ -18,7 +18,7 @@
 
 <!-- Typing headline -->
 <p align="center">
-  <a href="https://abbasraza.dev">
+  <a href="https://www.linkedin.com/in/kaleem-m5">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&duration=11000&color=00FF7F&center=true&vCenter=true&width=700&lines=I+Turn+Complex+Ideas+Into+Production+Systems;Full-Stack+%C2%B7+SaaS+%C2%B7+ERPs+%C2%B7+APIs+%C2%B7+Blockchain" alt="typing headline" />
   </a>
 </p>
