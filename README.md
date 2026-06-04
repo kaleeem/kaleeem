@@ -122,19 +122,12 @@
 
 <!-- DevOps / hosting extras -->
 <p align="center">
-  <img src="./assets/icons/aws.svg" width="48" height="48" title="AWS" alt="AWS" />
+  <img src="./assets/icons/githubactions.svg" width="48" height="48" title="CI/CD (via GitHub Actions)" alt="CI/CD" />
   &nbsp;
   <img src="./assets/icons/ec2.svg" width="48" height="48" title="AWS EC2" alt="AWS EC2" />
   &nbsp;
-  <img src="./assets/icons/vercel.svg" width="48" height="48" title="Vercel" alt="Vercel" />
-  &nbsp;
-  <img src="./assets/icons/githubactions.svg" width="48" height="48" title="GitHub Actions" alt="GitHub Actions" />
-  &nbsp;
-  <img src="./assets/icons/postgresql.svg" width="48" height="48" title="PostgreSQL" alt="PostgreSQL" />
-  &nbsp;
-  <img src="./assets/icons/mongodb.svg" width="48" height="48" title="MongoDB Atlas" alt="MongoDB Atlas" />
+  <img src="./assets/icons/hostinger.svg" width="48" height="48" title="hPanel (Hostinger)" alt="hPanel" />
 </p>
-
 
 
 
