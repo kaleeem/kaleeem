@@ -100,10 +100,6 @@
   <img src="./assets/icons/aceternity.png" width="48" height="48" title="Aceternity UI" alt="Aceternity UI" />
   &nbsp;
   <img src="./assets/icons/cpanel.svg" width="48" height="48" title="cPanel" alt="cPanel" />
-  &nbsp;
-  <img src="./assets/icons/ganache.svg" width="40" height="48" title="Ganache" alt="Ganache" />
-  &nbsp;
-  <img src="./assets/icons/ipfs.svg" width="48" height="48" title="IPFS" alt="IPFS" />
 </p>
 
 <p align="center">
